@@ -1,5 +1,7 @@
 # qt-messenger
 Client-Server Qt messenger for kurs project
+
+![Messenger](https://github.com/Romsik788/qt-messenger/blob/main/.github/menu.png?raw=true)
 ## Build
 You must use Qt6
 ### Windows
